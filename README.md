@@ -30,10 +30,6 @@ xcuserdata/
 *.dSYM
 
 #可可豆荚
- #
-#我们建议不要将 Pods 目录添加到您的 .gitignore。然而
-#您应该自己判断，利弊在以下位置提到：
-# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
 豆荚/
 #
